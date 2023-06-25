@@ -1,0 +1,5 @@
+{
+  "input" : ["pineapple"],
+  "output" : "pat_pineapplehead"
+  "groups" : ["craftinganvil", "armours", "all"]
+}
