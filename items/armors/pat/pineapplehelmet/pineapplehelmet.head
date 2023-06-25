@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "headarmour",
   "description" : "powerful armor for a powerful warrior",
-  "shortdescription" : "Pineapple Helmet",
+  "shortdescription" : "^yellow;Pineapple Helmet^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
