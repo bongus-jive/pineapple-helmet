@@ -44,8 +44,8 @@
   "itemTags" : [ "tier6armour" ],
 
   "colorOptions" : [
-    // pineaple
-    { "ffca8a" : "E1B73F", "e0975c" : "A77326", "a85636" : "633D18", "6f2919" : "472516" },
+    // cirtrues
+    { "ffca8a" : "FEBE7F", "e0975c" : "E9922F", "a85636" : "AA4A00", "6f2919" : "712702" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
