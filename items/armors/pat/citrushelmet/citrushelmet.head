@@ -5,7 +5,7 @@
   "maxStack": 1,
   "rarity": "Legendary",
   "category": "headarmour",
-  "description": "Refresh your mind with a bit of zest!",
+  "description": "Refresh your mind with a bit of zest!\n\n\n ^cyan;+25% Cold Resistance",
   "shortdescription": "^orange;Citrus Helmet^reset;",
   "tooltipKind": "armor",
 
@@ -37,7 +37,7 @@
     }
   ],
   "statusEffects": [
-    { "stat": "iceResistance", "amount": 0.5 },
+    { "stat": "iceResistance", "amount": 0.25 },
     { "stat": "TRL_Tentacle_Hunt_Immunity", "amount": 1 },
     { "stat": "TRL_Tentacle_Hunt_Timeout_Immunity", "amount": 1 }
   ],
