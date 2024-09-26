@@ -37,6 +37,7 @@
     }
   ],
   "statusEffects" : [
+    { "stat" : "iceResistance", "amount" : 0.5 },
     { "stat" : "TRL_Tentacle_Hunt_Immunity", "amount" : 1 },
     { "stat" : "TRL_Tentacle_Hunt_Timeout_Immunity", "amount" : 1 }
   ],
