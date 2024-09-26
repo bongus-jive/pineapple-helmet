@@ -1,5 +1,5 @@
 {
-  "input" : [ "orange" ],
-  "output" : "pat_citrushead",
-  "groups" : [ "craftinganvil", "armours", "all" ]
+  "input": [ "orange" ],
+  "output": "pat_citrushead",
+  "groups": [ "craftinganvil", "armours", "all" ]
 }
