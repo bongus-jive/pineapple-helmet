@@ -44,6 +44,10 @@
 
   "itemTags": [ "tier6armour" ],
 
+  "builder": "/items/armors/pat/pineapplehelmet/rot.lua",
+  "itemAgingScripts": [ "/items/armors/pat/pineapplehelmet/rot.lua" ],
+  "rottingMultiplier": 1,
+
   "colorOptions": [
     // pineaple
     { "ffca8a": "E1B73F", "e0975c": "A77326", "a85636": "633D18", "6f2919": "472516" },
