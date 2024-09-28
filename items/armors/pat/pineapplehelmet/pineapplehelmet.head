@@ -5,7 +5,7 @@
   "maxStack": 1,
   "rarity": "Legendary",
   "category": "headarmour",
-  "description": "A helmet made of the strongest of fruits. Perfect for a feline wanderer.\n           ^orange;+ 25% Fire Resistance",
+  "description": "A helmet made of the strongest of fruits. Perfect for a feline wanderer.\n    ^red;+ 25% Fire Resistance",
   "shortdescription": "^yellow;Pineapple Helmet^reset;",
   "tooltipKind": "armor",
 

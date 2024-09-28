@@ -1,12 +1,12 @@
 {
-  "itemName": "pat_citrushead",
+  "itemName": "pat_neonmelonhead",
   "price": 3840,
   "inventoryIcon": "icon.png",
   "maxStack": 1,
   "rarity": "Legendary",
   "category": "headarmour",
-  "description": "Refresh your mind with a bit of zest!\n\n    ^cyan;+ 25% Ice Resistance",
-  "shortdescription": "^orange;Citrus Helmet^reset;",
+  "description": "Beware of rubber bands.\n\n\n    ^violet;+ 25% Electric Resistance",
+  "shortdescription": "^cornflowerblue;Neonmelon Helmet^reset;",
   "tooltipKind": "armor",
 
   "maleFrames": "head.png",
@@ -37,7 +37,7 @@
     }
   ],
   "statusEffects": [
-    { "stat": "iceResistance", "amount": 0.25 },
+    { "stat": "electricResistance", "amount": 0.25 },
     { "stat": "TRL_Tentacle_Hunt_Immunity", "amount": 1 },
     { "stat": "TRL_Tentacle_Hunt_Timeout_Immunity", "amount": 1 }
   ],
@@ -49,8 +49,8 @@
   "rottingMultiplier": 1,
 
   "colorOptions": [
-    // cirtrues
-    { "ffca8a": "FEBE7F", "e0975c": "E9922F", "a85636": "AA4A00", "6f2919": "712702" },
+    // Neonmelob!
+    { "ffca8a": "627CB2", "e0975c": "3F5278", "a85636": "323D54", "6f2919": "262931" },
     // BLACK
     { "ffca8a": "838383", "e0975c": "555555", "a85636": "383838", "6f2919": "151515" },
     // GREY
@@ -63,8 +63,8 @@
     { "ffca8a": "ffd495", "e0975c": "ea9931", "a85636": "af4e00", "6f2919": "6e2900" },
     // YELLOW
     { "ffca8a": "ffffa7", "e0975c": "e2c344", "a85636": "a46e06", "6f2919": "642f00" },
-    // GREEN
-    { "ffca8a": "b2e89d", "e0975c": "51bd3b", "a85636": "247824", "6f2919": "144216" },
+    // GREEN (me lon)
+    { "ffca8a": "82AE31", "e0975c": "548318", "a85636": "3E6B1B", "6f2919": "315315", "98DFC5": "DFF09E", "55BE97": "B9D672" },
     // BLUE
     { "ffca8a": "96cbe7", "e0975c": "5588d4", "a85636": "344495", "6f2919": "1a1c51" },
     // PURPLE

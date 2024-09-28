@@ -1,0 +1,7 @@
+{
+  "input": [
+    { "name": "neonmelon", "count": 2 }
+  ],
+  "output": { "name": "pat_neonmelonhead" },
+  "groups": [ "craftinganvil", "armours", "all" ]
+}
