@@ -44,8 +44,8 @@
 
   "itemTags": [ "tier6armour" ],
 
-  "builder": "/items/armors/pat/pineapplehelmet/rot.lua",
-  "itemAgingScripts": [ "/items/armors/pat/pineapplehelmet/rot.lua" ],
+  "builder": "/items/armors/pat/pineapplehelmet/build.lua",
+  "itemAgingScripts": [ "/items/armors/pat/pineapplehelmet/age.lua" ],
   "rottingMultiplier": 1,
   "sb_unpreserveable": true,
   "sb_unfreezeable": true,
