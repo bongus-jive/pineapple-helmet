@@ -1,5 +1,7 @@
 {
-  "input": [ "pineapple" ],
-  "output": "pat_pineapplehead",
+  "input": [
+    { "name": "pineapple" }
+  ],
+  "output": { "name": "pat_pineapplehead" },
   "groups": [ "craftinganvil", "armours", "all" ]
 }
