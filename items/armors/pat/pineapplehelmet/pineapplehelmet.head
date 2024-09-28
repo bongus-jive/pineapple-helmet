@@ -47,6 +47,8 @@
   "builder": "/items/armors/pat/pineapplehelmet/rot.lua",
   "itemAgingScripts": [ "/items/armors/pat/pineapplehelmet/rot.lua" ],
   "rottingMultiplier": 1,
+  "sb_unpreserveable": true,
+  "sb_unfreezeable": true,
 
   "colorOptions": [
     // pineaple
