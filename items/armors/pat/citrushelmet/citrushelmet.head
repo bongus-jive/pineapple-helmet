@@ -16,24 +16,24 @@
   "level": 6,
   "leveledStatusEffects": [
     {
-      "levelFunction": "manipulatorArmorLevelPowerMultiplierMultiplier",
+      "levelFunction": "standardArmorLevelPowerMultiplierMultiplier",
       "stat": "powerMultiplier",
-      "baseMultiplier": 1.5
+      "baseMultiplier": 1.15
     },
     {
       "levelFunction": "standardArmorLevelProtectionMultiplier",
       "stat": "protection",
-      "amount": 1
+      "amount": 0.3
     },
     {
       "levelFunction": "acceleratorArmorLevelMaxEnergyMultiplier",
       "stat": "maxEnergy",
-      "amount": 10
+      "amount": 3
     },
     {
       "levelFunction": "separatorArmorLevelMaxHealthMultiplier",
       "stat": "maxHealth",
-      "amount": 10
+      "amount": 3
     }
   ],
   "statusEffects": [
