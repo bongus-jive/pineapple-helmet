@@ -1,11 +1,11 @@
 {
   "author" : "patrice",
-  "description" : "adds a pineapple helmet. make at an anvil with one pineapple",
+  "description" : "adds a Pineapple Helmet, Citrus Helmet, and Neonmelon Helmet\nmake them at a tier 3 anvil with pineapples, oranges, or neonmelon slices\n\noranges arent obtainable in vanilla, so have fun with that",
   "friendlyName" : "pineapple helmet",
   "link" : "steam://url/CommunityFilePage/2994256226",
   "name" : "pat_pineapplehelmet",
   "steamContentId" : "2994256226",
-  "steamDescription" : "adds a pineapple helmet\nmake at an anvil with one pineapple\n\nthe helmet alone has the stats of an entire pre-1.3 \"perfectly generic set\".. very powerful..\nit also makes you immune to portal mech's anticheat (probably. i didnt test it lol)\n\n\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/pineapple-helmet\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf",
-  "tags" : "Armor and Clothes",
-  "version" : "1.0.2"
+  "steamDescription" : "adds a pineapple helmet\nmake at an anvil with one pineapple\n\nalso adds a citrus helmet\nmake with one orange. oranges arent obtainable in vanilla, so have fun with that\n\nand also adds a neonmelon helmet!\nmake with two neonmelon slices\ni wanted to do a regular melon helmet, but there's only neonmelons. it looks like a normal melon if you dye it green, though\n\ntheyre all tier 6, each with different mixes of stats from the tier 6 sidegrades\npineapple has bonus health & damage, citrus has bonus energy & damage, and neonmelon has bonus health & energy\nhowever they also rot just like regular food . \n\n\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/pineapple-helmet\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf",
+  "tags" : "Food and Farming|Armor and Clothes",
+  "version" : "1.1"
 }
