@@ -16,5 +16,5 @@ function getRotTimeDescription(rotTime)
   for i, desc in ipairs(descList) do
     if rotTime <= desc[1] then return desc[2] end
   end
-  return descList[#descList]
+  return descList[#descList][2]
 end
