@@ -6,7 +6,7 @@
   "rarity": "Legendary",
   "category": "headarmour",
   "description": "Beware of rubber bands.\n\n",
-  "shortdescription": "^cornflowerblue;Neonmelon Helmet^reset;",
+  "shortdescription": "^cyan;Neonmelon Helmet^reset;",
   "tooltipKind": "armor",
 
   "maleFrames": "head.png",
