@@ -5,7 +5,7 @@
   "maxStack": 1,
   "rarity": "Legendary",
   "category": "headarmour",
-  "description": "Beware of rubber bands.\n\n\n    ^violet;+ 25% Electric Resistance",
+  "description": "Beware of rubber bands.\n\n",
   "shortdescription": "^cornflowerblue;Neonmelon Helmet^reset;",
   "tooltipKind": "armor",
 
@@ -37,7 +37,6 @@
     }
   ],
   "statusEffects": [
-    { "stat": "electricResistance", "amount": 0.25 },
     { "stat": "TRL_Tentacle_Hunt_Immunity", "amount": 1 },
     { "stat": "TRL_Tentacle_Hunt_Timeout_Immunity", "amount": 1 }
   ],
